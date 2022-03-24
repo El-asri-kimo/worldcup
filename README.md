@@ -1,2 +1,0 @@
-# worldcup
-M3u
