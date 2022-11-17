@@ -1,69 +1,784 @@
-#EXTM3U 
-#EXTINF:-1,Qatar beIN Max_LOW 1 
-http://51.158.62.119:8000/play/a03p/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_LOW 2 
-http://51.158.62.119:8000/play/a03q/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_LOW 3 
-http://51.158.62.119:8000/play/a03r/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_LOW 4 
-http://51.158.62.119:8000/play/a03s/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_LOW 5 
-http://51.158.62.119:8000/play/a03t/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_LOW 6 
-http://51.158.62.119:8000/play/a03u/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_SD 1 
-http://51.158.62.119:8000/play/a03j/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_SD 2 
-http://51.158.62.119:8000/play/a03k/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_SD 3 
-http://51.158.62.119:8000/play/a03l/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_SD 4 
-http://51.158.62.119:8000/play/a03m/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_SD 5 
-http://51.158.62.119:8000/play/a03n/index.m3u8 
-#EXTINF:-1,Qatar beIN Max_SD 6 
-http://51.158.62.119:8000/play/a03o/index.m3u8 
-#EXTINF:-1,Real 4k Bein Max2 
-http://51.158.62.119:8000/play/a048/index.m3u8 
-#EXTINF:-1,Real 4k Bein Max3 
-http://51.158.62.119:8000/play/a049/index.m3u8 
-#EXTINF:-1,Real 4k Bein Max4 
-http://51.158.62.119:8000/play/a04a/index.m3u8 
-#EXTINF:-1,Real 4k Bein_max 1
-http://51.158.62.119:8000/play/a047/index.m3u8
-#EXTINF:-1,beIN Max 1 4K
-http://51.158.62.119:8000/play/a041/index.m3u8
-#EXTINF:-1,beIN Max 2 4K
-http://51.158.62.119:8000/play/a042/index.m3u8
-#EXTINF:-1,beIN Max 3 4K
-http://51.158.62.119:8000/play/a043/index.m3u8
-#EXTINF:-1,beIN Max 4 4K
-http://51.158.62.119:8000/play/a044/index.m3u8
-#EXTINF:-1,beIN Max 5 4K
-http://51.158.62.119:8000/play/a045/index.m3u8
-#EXTINF:-1,beIN Max 6 4K
-http://51.158.62.119:8000/play/a046/index.m3u8
-#EXTINF:-1,beIN Max FHD 1
-http://51.158.62.119:8000/play/a03v/index.m3u8
-#EXTINF:-1,beIN Max FHD 2
-http://51.158.62.119:8000/play/a03w/index.m3u8
-#EXTINF:-1,beIN Max FHD 3
-http://51.158.62.119:8000/play/a03x/index.m3u8
-#EXTINF:-1,beIN Max FHD 4
-http://51.158.62.119:8000/play/a03y/index.m3u8
-#EXTINF:-1,beIN Max FHD 5
-http://51.158.62.119:8000/play/a03z/index.m3u8
-#EXTINF:-1,beIN Max FHD 6
-http://51.158.62.119:8000/play/a040/index.m3u8
-#EXTINF:-1,beIN Max_HD 8MB 1
-http://51.158.62.119:8000/play/a03d/index.m3u8
-#EXTINF:-1,beIN Max_HD 8MB 2
-http://51.158.62.119:8000/play/a03e/index.m3u8
-#EXTINF:-1,beIN Max_HD 8MB 3
-http://51.158.62.119:8000/play/a03f/index.m3u8
-#EXTINF:-1,beIN Max_HD 8MB 4
-http://51.158.62.119:8000/play/a03g/index.m3u8
-#EXTINF:-1,beIN Max_HD 8MB 5
-http://51.158.62.119:8000/play/a03h/index.m3u8
-#EXTINF:-1,beIN Max_HD 8MB 6
-http://51.158.62.119:8000/play/a03i/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="FIFA World Cup  Qatar 2022",AR: beIN Sports MAX 1 (720p)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29126
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="FIFA World Cup  Qatar 2022",AR: beIN Sports MAX 2 (720p)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29127
+#EXTINF:0 tvg-id="BeINSportsMAX3.es" group-title="FIFA World Cup  Qatar 2022",AR: beIN Sports MAX 3 (720p)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29128
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="FIFA World Cup  Qatar 2022",AR: beIN Sports MAX 4 (720p)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29129
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="FIFA World Cup  Qatar 2022",AR: beIN Sports MAX 5 (720p)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29130
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="FIFA World Cup  Qatar 2022",AR: beIN Sports MAX 6 (720p)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29131
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA ONE  4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29133
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA TWO  4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29134
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA ONE  FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29135
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA TOW  FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29136
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA ONE HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29137
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA TWO HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29138
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA ONE SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29139
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AL KASS EXTRA TWO SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29140
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC EXTRA NEWS
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29141
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC EXTRA 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29142
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC EXTRA 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29143
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC EXTRA 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29144
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC EXTRA 1 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29145
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC EXTRA 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29146
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SerieA:abu_dhabi_sport1_premium
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29147
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SerieA:abu_dhabi_sport2_premium
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29148
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SerieA:Starz_Play_Sports
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29149
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",StarzPlay SPORT 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29150
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",StarzPlay SPORT 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29151
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",StarzPlay SPORT 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29152
+#EXTINF:0 tvg-id="ADSports1.net" group-title="FIFA World Cup  Qatar 2022",AD Sports 1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29153
+#EXTINF:0 tvg-id="ADSports2.net" group-title="FIFA World Cup  Qatar 2022",AD Sports 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29154
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AD Sports Asia 1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29155
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AD Sports Asia 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29156
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Abu Dhabi Asia 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29157
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Abu Dhabi Asia 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29158
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 1 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29159
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC1 FHD PLUS
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29160
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29161
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 1 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29162
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29163
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29164
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 4 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29165
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 5 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29166
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 5 FHD PLUS
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29167
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 5 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29168
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 5 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29169
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 6 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29170
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",SSC 7 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29171
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 1 4k
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29172
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 2 4k
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29173
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 3 4k
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29174
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 4 4k
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29175
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29176
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29177
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29178
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",KSA SPORTS 4
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29179
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Saudi Sport 24 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29180
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Saudi Sport 24 hd
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29181
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AD SPORTS 1 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29182
+#EXTINF:0 tvg-id="ADSports1.net" group-title="FIFA World Cup  Qatar 2022",AD Sports 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29183
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",AD SPORTS 2 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29184
+#EXTINF:0 tvg-id="ADSports2.net" group-title="FIFA World Cup  Qatar 2022",AD Sports 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29185
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Al Kass 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29186
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Al Kass 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29187
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Al Kass 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29188
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Al Kass 4 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29189
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Dubai Sport 1 ARB
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29190
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Dubai Sport 2 ARB
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29191
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Dubai Sport 3 ARB
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29192
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport 4K 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29193
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport HD 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29194
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport SD 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29195
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport 4K 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29196
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport HD 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29197
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport SD 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29198
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport 4k 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29199
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport HD 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29200
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",On Time Sport SD 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29201
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Nile Sport
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29202
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Al Ahly Club
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29203
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Zamalek TV
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29204
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Bahrain Sport 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29205
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Bahrain Sport 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29206
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",PROGRAMME NATIONAL
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29207
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Jordan Sports
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29208
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Sharjah Sports
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29209
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Libya Sport TV
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29210
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Libya Sport 2 TV
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29211
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Palestine Sport
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29212
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",yas Sport
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29213
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Dubai Racing 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29214
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Dubai Racing 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29215
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Oman Sport Live
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29216
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Shabab Sport
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29217
+#EXTINF:0 tvg-id="ext" group-title="FIFA World Cup  Qatar 2022",Iraqia Sport
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29218
+
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: CricLife 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27976
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: CricLife 1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27977
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: CricLife 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27978
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: CricLife 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27979
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: CricLife MAX FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27980
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: JIO CRICKET
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27678
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: JIO CRICKET 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27984
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: PTV SPORTS
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17534
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: A Sportd FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17536
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: A Sports ARY
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17537
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: TEN SPORTS PK
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1011
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: TEN CRICKET
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/26399
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: GEO SUPER
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1012
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: FoX Sports 501
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17535
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: SUPERSPORT CRICKET
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/18257
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Astro Cricket
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17528
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: WILLOW CRICKET HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17538
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Willow Xtra
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17527
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Star Sports Hindi 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17520
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: STAR SPORTS 1 HD 1080 H.264
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17522
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: STAR SPORTS 2 HD 1080 H.264
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17523
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Star Sports 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17521
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Sky Sports Cricket HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17524
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Sky Sports Cricket FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17525
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: Super Sport GrandStand
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17526
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: SONY SIX SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1466
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: TEN 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1468
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: TEN 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1469
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: TEN 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1470
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: T Sports HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/22969
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC:  GAZI TV
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/26398
+#EXTINF:0 tvg-id="ext" group-title="T20 World Cup",T-20 WC: RTA SPORTS
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/11266
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports News HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23567
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23568
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports NBA HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23569
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports NBA FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23570
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 1 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23571
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 1 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23572
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 1 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23573
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 2 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23574
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 2 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23575
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 2 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23576
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 3 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23577
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 3 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23578
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports English 3 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23579
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports French 1 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23580
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports French 1 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23581
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports French 1 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23582
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports French 2 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23583
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports French 2 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23584
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports French 2 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23585
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 1 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23586
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 1 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23587
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 1 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23588
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 2 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23589
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 2 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23590
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 2 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23591
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 3 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23592
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 3 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23593
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 3 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23594
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 4 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23595
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 4 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23596
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 4 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23597
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 5 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23598
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 5 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23599
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 5 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23600
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 6 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23601
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 6 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23602
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 6 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23603
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports 7 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23604
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 7 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23605
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORTS ARAB",beIN Sports 7 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23606
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 1 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23607
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 1 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23608
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 1 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23609
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 2 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23610
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 2 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23611
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 2 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23612
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 3 QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23613
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 3 HD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23614
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ARAB",beIN Sports Premium 3 FHD QA
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/23615
+
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: Super Sport PSL
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29399
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Grandstand FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29400
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",SuperSport Action FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29401
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Football
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29402
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Rugby FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29403
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Cricket FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29404
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SUPERSPORT BLITZ HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29408
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Maximo 1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29409
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Tellytrack HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29410
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Tennis FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29411
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport LaLiga
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29412
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Variety 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29413
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Variety 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29414
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: SuperSport Variety 4
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29415
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",ZA: Supersports Premier league
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29416
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport PSL HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29417
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Golf HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29418
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Motorsport HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29419
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Blitz HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29420
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Tennis HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29421
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Play
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29422
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Action HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29423
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Football HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29424
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Variety 1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29425
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Variety 2
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29426
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Variety 4
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29427
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Variety 3
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29428
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Premier League
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29429
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Football
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29430
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Action
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29431
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Rugby
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29432
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport Blitz
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29433
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SuperSport maximo
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29434
+#EXTINF:0 tvg-id="ext" group-title="SUPERSPORTS AFRICA",AF.DSTV SUPERSPORT GOLF
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29435
+
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",GOL MUNDIAL SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29219
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",GOL MUNDIAL HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29220
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",GOL MUNDIAL FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29221
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN LA LIGA SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29222
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN LA LIGA HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29223
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN LA LIGA FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29224
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 1 SD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29225
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 1  HD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29226
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 1 FHD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29227
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 1 FHD (Solo Eventos) OP1
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29228
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN LA LIGA 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29229
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN LA LIGA 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29230
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN LA LIGA 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29231
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 2 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29232
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK TV SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29233
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK TV HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29234
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK TV FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29235
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK M2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29236
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK M2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29237
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK M2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29238
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK 1 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29239
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK M3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29240
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29241
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| RED BULL TV SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29242
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| RED BULL TV HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29243
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| RED BULL TV FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29244
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29245
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29246
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29247
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29248
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29249
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29250
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29251
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA 3 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29252
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29253
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LA LIGA 3 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29254
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 4 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29255
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 4  HD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29256
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 4 FHD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29257
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 5 FHD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29258
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 5  HD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29259
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 5 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29260
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 6 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29261
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 7 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29262
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 8 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29263
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 9 HD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29264
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 10 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29265
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. LaLiga 3 FHD Cable
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29266
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LaLiga TV Bar SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29267
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LaLiga TV Bar FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29268
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LaLiga TV Bar HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29269
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LaLiga TV Bar  HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29270
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA TV BAR FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29271
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LaLiga TV Bar FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29272
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29273
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29274
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29275
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M Liga de Campeones 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29276
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29277
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29278
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29279
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 3 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29280
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29281
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 3 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29282
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 4 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29283
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 4 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29284
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 4 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29285
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 5 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29286
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 5 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29287
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 5 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29288
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 6 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29289
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 6 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29290
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 6 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29291
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 7 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29292
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 7 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29293
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 7 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29294
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 8 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29295
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 8 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29296
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 8 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29297
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 9 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29298
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 9 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29299
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 9 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29300
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 10 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29301
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 10 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29302
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 10 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29303
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 11 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29304
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 11 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29305
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 11 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29306
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 12 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29307
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 12 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29308
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 12 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29309
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 13 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29310
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 13 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29311
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ LIGA DE CAMPEONES 13 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29312
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 1 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29313
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29314
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29315
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Dazn 1 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29316
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29317
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29318
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29319
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Dazn 2 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29320
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 3 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29321
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29322
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 3 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29323
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Dazn 3 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29324
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 4 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29325
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 4 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29326
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN 4 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29327
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Dazn 4 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29328
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN F1 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29329
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN F1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29330
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| DAZN F1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29331
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Dazn F1 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29332
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Dazn F1 UHD [Eventos Especial]
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29333
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ VAMOS SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29334
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ VAMOS HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29335
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ VAMOS FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29336
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| #Vamos FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29337
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| BARCA TV
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29338
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| Real Madrid TV HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29339
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| EUROSPORT 1 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29340
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| EUROSPORT 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29341
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| EUROSPORT 1 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29342
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| Eurosport 1 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29343
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| EUROSPORT 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29344
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| EUROSPORT 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29345
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| EUROSPORT 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29346
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| Eurosport 2 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29347
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29348
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29349
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29350
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Deportes FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29351
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Deportes 1 FHD (H.265)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29352
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Deportes 1 FHD (Fibra)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29353
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Deportes 1 FHD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29354
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Deportes 1 HD (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29355
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Deportes 1 (Solo Eventos)
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29356
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 2 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29357
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29358
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 2 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29359
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 3 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29360
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29361
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 3 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29362
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 4 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29363
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 4 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29364
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 4 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29365
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 5 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29366
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 5 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29367
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 5 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29368
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 6 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29369
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 6 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29370
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 6 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29371
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 7 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29372
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 7 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29373
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 7 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29374
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ GOLF SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29375
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ GOLF HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29376
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ GOLF FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29377
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M. Golf 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29378
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| TELEDEPORTE SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29379
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| TELEDEPORTE HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29380
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| TELEDEPORTE FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29381
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| Teledeporte 4K
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29382
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| GOL SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29383
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| GOL HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29384
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| GOL FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29385
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| M+ DEPORTES 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29386
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| LA LIGA SMARTBANK M3 SD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29387
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES|  LA LIGA SMARTBANK M3 FHD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29388
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29389
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29390
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29391
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 4 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29392
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 5 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29393
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 6 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29394
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 7 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29395
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 8 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29396
+#EXTINF:0 tvg-id="ext" group-title="ES Movistar+ Deportes",ES| MOVISTAR+ ALQUILER 9 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/29397
+
+#EXTINF:0 tvg-id="ext" group-title="SINGAPORE",SG: HUB PREMIER 1 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27986
+#EXTINF:0 tvg-id="ext" group-title="SINGAPORE",SG: HUB PREMIER 2 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27987
+#EXTINF:0 tvg-id="ext" group-title="SINGAPORE",SG: HUB PREMIER 3 HD
+http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/27988
